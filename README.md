@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on UX/IU & general Web DesignProjects.
 - 📫 How to reach me @kozmo_ on twitter
 
+A digital alchemist who blends art and technology to create user-centered and visually stunning websites. My passion for design, development, and user experience has driven me to create designs that are both beautiful and functional, with a focus on creating a seamless user experience.
 
 After more than ten years working as a Web/Graphic Designer/Developer in either private, public or foreign companies, I've come to enjoy sharing my skills within the IT field as either a creative UX/UI force or a Graphic-driven developer. I handle both fields with dominance and ease.
 
@@ -11,11 +12,13 @@ After more than ten years working as a Web/Graphic Designer/Developer in either 
   CODING SKILLS
 +-+-+-+-+-+-+-+-+-
 
-- ⚡ Vast experience wire framing, designing & articulating websites from scratch. Knowledge of HTML, CSS, JS/JQ and php languages, among others.
+- ⚡ Web Design: Experience in creating visually stunning websites with a focus on user-centered design.
  
-- 🛠 Solid experience in multi-platform frameworks, libraries and CMSs like Bootstrap, Foundation, W3.css, Wordpress, Magento, Opencart, Blogger, etc.
+- 🛠 Front-end Development: Proficient in HTML, CSS, and JavaScript, with a strong understanding of responsive design.
 
-- ✂ Full proficiency building mobile-friendly and responsive websites across multiple browsers, devices and platforms.
+- ✂ UX/UI Design: Strong understanding of UX/UI design principles and experience in conducting user research and testing.
+
+- 🖥 Project Management: Ability to effectively manage multiple projects and meet tight deadlines.
 
 +-+-+-+-+-+-+-+-+-
 
